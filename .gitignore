@@ -1,0 +1,7 @@
+
+*.js
+App.js
+/node_modules
+/bin
+/obj
+!contract.js
